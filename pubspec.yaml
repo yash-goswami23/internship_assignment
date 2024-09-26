@@ -1,0 +1,29 @@
+name: internship_assignment
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  fl_chart: ^0.69.0
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.8
+  sidebarx: ^0.17.1
+  table_calendar: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+
+  
